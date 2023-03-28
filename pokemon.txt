@@ -1,0 +1,14 @@
+name:pikachu
+id:25
+type:elétrico
+evolution:growlithe,arcanine,fire-stone
+
+name:squirtle
+id:7
+type:water
+evolution:wartortle,blastoise
+
+name:pidgey
+id:6
+type:flying
+evolution:igglybuff,jigglypuff,wigglytuff
